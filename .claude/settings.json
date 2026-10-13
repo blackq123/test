@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "treg": {
+      "source": {
+        "source": "github",
+        "repo": "superdesigndev/treg"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "treg@treg": true
+  },
+  "enabledMcpjsonServers": ["treg"]
+}
